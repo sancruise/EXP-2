@@ -102,11 +102,9 @@ Model graph(Load Test):
 Calculation: 
 
 Open circuit characteristics:
-[exp-2(7) magnetisation char. of DC shunt generator.pdf](https://github.com/user-attachments/files/33803553/exp-2.7.magnetisation.char.of.DC.shunt.generator.pdf)
-
-
+<img width="1227" height="825" alt="Screenshot 2026-10-22 152157" src="https://github.com/user-attachments/assets/aebd424c-53fc-418e-8751-f47645254350" />
 Load Characteristics:
-[beee exp-2 load char. DC shunt generator.pdf](https://github.com/user-attachments/files/33803545/beee.exp-2.load.char.DC.shunt.generator.pdf)
-
+<img width="1210" height="386" alt="Screenshot 2026-10-22 152237" src="https://github.com/user-attachments/assets/b8575e8a-02f4-4150-8fb7-ef89d3ce6217" />
+<img width="1272" height="558" alt="Screenshot 2026-10-22 152224" src="https://github.com/user-attachments/assets/f49137e9-bbf7-4e1e-8cae-f2d2dd6a50a1" />
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
